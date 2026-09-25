@@ -47,4 +47,4 @@ I specialize in hardware prototyping, embedded systems, motion control, and upcy
 
 ### 📂 Full Documentation & Media
 
-- 💼 **LinkedIn Profile:** [www.linkedin.com/in/marco-aldeeb-86b902439](www.linkedin.com/in/marco-aldeeb-86b902439)
+- 💼 **LinkedIn Profile:** [Marco su Linkedin](https://www.linkedin.com/in/marco-aldeeb-86b902439)
