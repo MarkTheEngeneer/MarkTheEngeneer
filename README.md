@@ -24,9 +24,9 @@ I specialize in hardware prototyping, embedded systems, motion control, and upcy
 - **Media Coverage:** Featured in the local newspaper **L'Arena** for sustainable technology and e-waste upcycling.
 
 <p align="center">
-  <img src="reprap_printer_1.jpg" width="30%" alt="RepRap 3D Printer Assembly" />
-  <img src="reprap_printer_2.jpg" width="30%" alt="Mechanical and Electronic Detail" />
-  <img src="articolo_larena.jpg" width="35%" alt="L'Arena Newspaper Feature" />
+  <img src="reprap_printer_1.jpeg" width="30%" alt="RepRap 3D Printer Assembly" />
+  <img src="reprap_printer_2.jpeg" width="30%" alt="Mechanical and Electronic Detail" />
+  <img src="articolo_larena.jpeg" width="35%" alt="L'Arena Newspaper Feature" />
 </p>
 
 ---
@@ -39,8 +39,8 @@ I specialize in hardware prototyping, embedded systems, motion control, and upcy
 - **Retrofitting:** Embedded control electronics and actuators seamlessly inside a reclaimed mannequin frame.
 
 <p align="center">
-  <img src="mannequin_1.jpg" width="45%" alt="Mannequin Display at Fieracavalli" />
-  <img src="mannequin_electronics.jpg" width="45%" alt="PIR Sensor & Motor Control Setup" />
+  <img src="mannequin_1.jpeg" width="45%" alt="Mannequin Display at Fieracavalli" />
+  <img src="mannequin_electronics.jpeg" width="45%" alt="PIR Sensor & Motor Control Setup" />
 </p>
 
 ---
