@@ -45,17 +45,6 @@ I specialize in hardware prototyping, embedded systems, motion control, and upcy
 
 ---
 
-#### 📄 Local OCR & Document Converter Web App
-*Local web application built with Flask, Ollama, and GLM-OCR to process scanned PDFs and images into structured Markdown files.*
-
----
-
-#### 📐 Physics Formula Suites (Casio fx-CG50)
-*Custom formatted physics formula suites converted into e-Activity (`.g2e`) files for graphic calculators.*
-
----
-
 ### 📂 Full Documentation & Media
 
-- 🔗 **Google Drive Portfolio:** [Access Complete Project Folders & Files](https://drive.google.com/drive/folders/1UyCwOu5vcpztMQugRl_cIQHnYfzgKK2E?usp=sharing)
-- 💼 **LinkedIn Profile:** [linkedin.com/in/tuo-profilo](https://linkedin.com)
+- 💼 **LinkedIn Profile:** [www.linkedin.com/in/marco-aldeeb-86b902439](www.linkedin.com/in/marco-aldeeb-86b902439)
